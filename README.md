@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 I am a Computer Science student at UFRGS located in Porto Alegre, Brazil. This GitHub profile contains some of my personal projects.
 
-### Some Languages/Technologies I've used/had experience with:
-C/C++
-Java
-SQL
-Android Dev
-Java Native Interface (JNI)
-Python
-Pandas
-JUCE Framework
-OpenCV
-VHDL
+### Some Languages/Technologies I know or have some experience with:
+- C/C++
+- Java
+- SQL
+- Android Studio
+- Java Native Interface (JNI)
+- Python
+- Pandas
+- JUCE Framework
+- OpenCV
+- VHDL
 
