@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am a Computer Science student at UFRGS located in Porto Alegre, Brazil. This GitHub profile contains some of my personal projects.
 
+I currently work as an intern at the Federal Police of Brazil. 
+
 ### Some Languages/Technologies I know or have some experience with:
 - JavaScript
 - Express.js
